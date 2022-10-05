@@ -10,4 +10,4 @@
 
 ### Output
 
-[![Watch the video](media/Screenshot.png)](media/Medica.webm)
+[![Watch the video](media/Screenshot.png)](media/Medica.gif)
